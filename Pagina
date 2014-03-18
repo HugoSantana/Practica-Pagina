@@ -1,0 +1,85 @@
+<DOCTYPE html>
+   <html>
+   <head>
+       <tittle> <span style =font-size:50 px; color; #FF0000; Ejemplo con DIVS</span> </tittle>
+	   </head>
+	   <body>
+	   <div id= "cabecera"> OSWALDO SANCHEZ..!!!!!! </div>
+	   
+	   <div id= "nav"> </p>BIOGRAFIA </div>
+	   <p>
+	   <div id= "principal"> </p> Oswaldo Javier Sánchez Ibarra (Guadalajara, Jalisco, México; 21 de septiembre de 1973) es un futbolista mexicano.
+	   Juega de Guardameta en el Club Santos Laguna de la Primera División de México. Destacando por sus grandes reflejos, se ganó el apodo de "San Oswaldo" 
+	   otorgado por la afición del Guadalajara.
+	   Oswaldo Sánchez es un guardameta ágil y de grandes reflejos pese a su más de metro ochenta centímetros de altura y sus 82 kilos de peso. 
+	   Su buen juego de pies le ha valido el respeto de todos sus rivales y el reconocimiento de todos sus entrenadores desde que empezó en su adolescencia 
+	   en las categorías inferiores del fútbol mexicano. 
+	   Con una infancia difícil, desde niño tuvo la intención de ayudar a su madre y hermanos, por lo que trabajó de “cerillo” en una tienda departamental sin dejar a lado los deseos de convertirse en un gran futbolista. A sus 18 años, Oswaldo se integró a la filial del Atlas con la visión del Señor José Luis Real quien se encargaba de las fuerzas básicas en ese momento.
+Antes de ser profesional, Oswaldo jugó varias temporadas en equipos mexicanos y llegó a ser seleccionado para jugar como portero titular 
+de las selecciones sub-20 y sub-23 de su país. Consiguió diferentes premios dentro de la categoría de juvenil y su calidad le hizo destacar 
+lo suficiente como para que en 1993, y con sólo 20 años de edad, llegara a firmar el que sería su primer contrato profesional 
+con el equipo del Atlas.</p> </div>
+<p>
+	  <img src="http://espndeportes-assets.espn.go.com/2003/photos2011/1011/m_oswaldo_sanchez_300x400.jpg" alt="San Oswaldo" />
+	  
+	   <div id= "lateral"> Inicio de su Carrera </div>
+	   </p>
+	   Debutó con el Atlas de Guadalajara el 30 de octubre de 1993 al entrar de cambio por Miguel de Jesús Fuentes, en partido correspondiente a la Fecha 13 de la Temporada 1993-94 que terminó empatado a un gol contra Veracruz. El Director Técnico responsable de presentarlo en la Primera División del futbol mexicano fue el argentino Marcelo Bielsa. Oswaldo tuvo un gran maestro en la portería, llegó al equipo grande del Atlas cuando Robert Dante Siboldi derrochaba clase en el futbol mexicano, supo esperar su momento como suplente de Miguel Fuentes, pero en la campaña 1993-94 tuvo su oportunidad y la aprovechó al máximo convirtiéndose en titular de inmediato y jugando su primera liguilla.
+Inamovible del marco de Atlas en las campañas 1994-95 y 1995-96, jugó su último juego como rojinegro contra el mismo rival que debutó:
+ Veracruz, en la liguilla de la última temporada larga, el global fue 3-3 pero los Zorros no continuaron, él tampoco siguió en el equipo ya que fue transferido al Club América.
+Con el inicio de los torneos cortos, en el Torneo Invierno 1996, Sánchez Ibarra se vistió de amarillo, llegó a las Águilas del América pedido por el nuevo técnico Ricardo La Volpe, ahí le costó trabajo hacerse del puesto titular, sólo fue indiscutible en dos de los seis torneos que militó con las Águilas, Invierno 1997 y Verano 1999, en ambos jugó la liguilla, su último cotejo como americanista fue contra Santos, las Águilas ganaron 2-0 pero habían perdido 0-3 en la ida y quedaron fuera en el Estadio Azteca. 3 En ese torneo fue compañero de Ramón Ramírez en el equipo de Coapa, el nayarita llegaba de Chivas en una polémica transferencia, fue un año en el que se realizaron seis transferencias entre estos odiados equipos, antes de iniciar el Invierno 1999 se anunció un cambio, 
+jugadores de apellido Sánchez, Joel fue a las Águilas, Oswaldo al Guadalajara, 
+más tarde jugarían juntos en el Rebaño Sagrado.
+<p>
+
+
+
+<img src="http://eleconomista.com.mx/files/imagecache/nota_completa/sanchez_1.jpg" alt="San Oswaldo" />
+	   
+	   <ul>
+	   <div id= "lista "> lista (Equipos) <p>
+	   
+	   <li> Atlas (AT) </li>
+	   <li> America (AM) </li>
+	   <li> Chivas (CH) </li>
+	   <li> Santos (SA) </li>
+	   </li>
+	   
+	   </body>
+	   </html>
+	   
+	   
+	   
+	   <table  border = "2">
+<tr> 
+ <th> Mexico</th>
+<th> Inglaterra</th>
+<th> Costa de Marfil</th>
+<th> Gana</th>
+<th>  Uruguay</th>
+<th> Portugal</th>
+<th> Italia</th>
+<th> Brazil</th>
+<th> Alemania</th>
+</tr>
+
+<tr> 
+<td> Oswaldo Sanchez</td>
+<td> Frank Lampard</td>
+<td> Didier Drogba</td>
+<td> Kevin-Prince Boateng</td>
+<td> Luis Suarez
+<td> Cristiano Ronaldo</td>
+<td> Mario Balotelli</td
+<td> Thiago Silva</td>
+<td> Bastian Schweinsteiger</td>
+</tr>
+</table>
+
+<br>
+<a href ="http://www.mediotiempo.com.mx/">Mediotiempo La Casa Del Futbol
+</a>
+	   
+	   
+	   
+	   
